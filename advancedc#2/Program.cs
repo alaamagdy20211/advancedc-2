@@ -1,5 +1,5 @@
 ﻿using System.Collections;
-
+//
 namespace advancedc_2
 {
     internal class Program
